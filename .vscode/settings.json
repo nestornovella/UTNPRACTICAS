@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "map": "cpp",
+        "ostream": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "complex": "cpp",
+        "bitset": "cpp"
+    }
+}
