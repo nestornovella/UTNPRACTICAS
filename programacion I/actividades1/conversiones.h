@@ -23,6 +23,7 @@ public:
             if (!isdigit(c))
             {
                 valoresCorrectos = false;
+                break;
             }
         }
 
@@ -125,6 +126,7 @@ public:
             if (!isdigit(c))
             {
                 valoresCorrectos = false;
+                break;
             }
         }
         if (valoresCorrectos)
